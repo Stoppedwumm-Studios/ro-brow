@@ -51,3 +51,10 @@ This is our welcome page:
   }
 }
 ```
+We recommend a unique String Name for every object.
+
+## Explanation
+You can see a pattern in the JSON. You define a header, a body and the objects with their properties. This is the structure of HTML, I made it extra like this.
+
+## More things
+I will try updating for index files, please prepare for a change
