@@ -8,3 +8,4 @@ Since Roblox has a feature for http requests, I had the idea of building an brow
 Go to my roblox game: LINK HERE
 
 ## How to host
+[How to host](/host-docs/)
